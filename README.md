@@ -17,7 +17,7 @@
 
 ![Architecture-Irrigator](https://github.com/user-attachments/assets/50d00ed4-5f49-4dd1-b31f-31f747f1281b)
 
-## LoRa-ESP32 Sensor Monitoring Project
+## LoRa-ESP32 Sensor Monitoring 
 
 ### Overview
     

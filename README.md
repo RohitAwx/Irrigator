@@ -31,7 +31,7 @@ This project utilizes `LoRa` and `ESP32` modules to monitor soil humidity and te
 4. Connect your mobile phone to the ESP32 Wi-Fi network (SSID: `ESP32_LoRa_Receiver` , Password:  <kbd>123456789</kbd>).
 5. Access the live data through the app or a browser using the IP address  <kbd>192.168.4.1</kbd>.
 
-##Usage
+## Usage
 
 After completing the setup, the ESP32 will display live data received from the LoRa transmitter. The mobile app will fetch this data from the ESP32 and present it intuitively.
 

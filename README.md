@@ -35,6 +35,41 @@ This project utilizes `LoRa` and `ESP32` modules to monitor soil humidity and te
 
 After completing the setup, the ESP32 will display live data received from the LoRa transmitter. The mobile app will fetch this data from the ESP32 and present it intuitively.
 
+## Application UI
+
+<p align="center"> 
+	
+ <img src= "https://github.com/RohitAwx/Irrigator/blob/master/assets/Screen%201%20SIH.jpg"   />
+</p>
+<p align="center"><b>  Screen 1  </b></p>
+
+<br>
+<p align="center"> 
+
+<img src= "https://github.com/RohitAwx/Irrigator/blob/master/assets/Screen%201_1%20SIH.jpg"  />
+</p>
+<p align="center"><b> Screen 1 - adding the total no. of farms </b></p>
+<br>
+
+
+<p align="center"> 
+  <img src ="https://github.com/RohitAwx/Irrigator/blob/master/assets/screen%202%20SIH.jpg" />
+  <br><b>Screen 2  - displaying the data fetched</b>
+</p>
+<br>
+
+
+<p align="center"> 
+  <video src= "https://github.com/RohitAwx/Irrigator/blob/master/assets/Screen%202%20reverse%20countdown.mp4 " width="30"/>
+</p>
+<p align="center"><b> Screen 2 - Reverse Countdown </b>
+</p>
+
+> [!Tip]
+> Reverse countdown technique timer  is used  relative to the fixed amount of time needed for irrigation; if this technique has not been used  the irrigator will run 'n' number of times leading to water loss.
+
+
+
 
 
 
